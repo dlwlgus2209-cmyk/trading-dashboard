@@ -1,4 +1,4 @@
-# 📈 Coin Trading Dashboard
+# 📈 Coin Trading Dashboard 2026=03-25
 
 업비트 API와 OpenAI API를 연동한 실시간 암호화폐 트레이딩 대시보드입니다.
 
